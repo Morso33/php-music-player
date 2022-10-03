@@ -1,6 +1,6 @@
-#PHP Music Player
+# PHP Music Player
 
-##A simple music player written in PHP that supports playback of MP3 songs.
+## A simple music player written in PHP that supports playback of MP3 songs.
 
 Uses MYSQL for database management.
 
