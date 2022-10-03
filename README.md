@@ -24,7 +24,7 @@ Some images, API documentation etc: https://docs.google.com/document/d/1tBFMMRYD
 #### Everything should be correctly configured. Default MySql credentials are username: root | password root .
 
 # Images
-<img align="center" width="40%" height="40%" src="https://user-images.githubusercontent.com/69962221/193657157-e650f846-7a9b-474a-963d-c876c243f203.png">
+<img align="center" right = "50%" width="40%" height="40%" src="https://user-images.githubusercontent.com/69962221/193657157-e650f846-7a9b-474a-963d-c876c243f203.png">
 <img align="center" width="40%" height="40%" src="https://user-images.githubusercontent.com/69962221/193657189-c72f7b54-496d-40c3-8427-7149b998bbb0.png">
 <img align="center" width="40%" height="40%" src="https://user-images.githubusercontent.com/69962221/193657220-8630ca6b-1233-4fb4-b625-c8fe5c6d3541.png">
 <img align="center" width="40%" height="40%" src="https://user-images.githubusercontent.com/69962221/193657246-53a38d4b-2226-447c-a3bf-0582e5f07f9c.png">
