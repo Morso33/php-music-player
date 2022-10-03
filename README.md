@@ -24,12 +24,12 @@ Some images, API documentation etc: https://docs.google.com/document/d/1tBFMMRYD
 #### Everything should be correctly configured. Default MySql credentials are username: root | password root .
 
 # Images
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657157-e650f846-7a9b-474a-963d-c876c243f203.png">
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657189-c72f7b54-496d-40c3-8427-7149b998bbb0.png">
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657220-8630ca6b-1233-4fb4-b625-c8fe5c6d3541.png">
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657246-53a38d4b-2226-447c-a3bf-0582e5f07f9c.png">
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657290-4e02623c-b760-496c-8042-934cd8b3fc77.png">
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/69962221/193657321-2adb802f-df85-488d-9451-cfd1ae7464ec.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657157-e650f846-7a9b-474a-963d-c876c243f203.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657189-c72f7b54-496d-40c3-8427-7149b998bbb0.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657220-8630ca6b-1233-4fb4-b625-c8fe5c6d3541.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657246-53a38d4b-2226-447c-a3bf-0582e5f07f9c.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657290-4e02623c-b760-496c-8042-934cd8b3fc77.png">
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/69962221/193657321-2adb802f-df85-488d-9451-cfd1ae7464ec.png">
 
 
 
