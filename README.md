@@ -8,4 +8,5 @@ Has a simple Login + Register system inbuilt (bcrypt encryption on sensitive use
 
 Supports the user uploading their own songs (root/upload.php)
 
+Built-in rudimentary session system (user sessions).
 
