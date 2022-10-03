@@ -1,0 +1,106 @@
+body {
+    background-color: white;
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+@media screen and (min-width: 800px) {
+    
+}
+
+a:active {
+    color: navajowhite;
+}
+
+a:link {
+    color: navajowhite;
+}
+  
+a:visited {
+    color: navajowhite;
+}
+
+#songInfo {
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    width: 80%;
+    padding: 20px;
+}
+
+
+
+
+.dark-mode
+{
+    background-color:#1F1B24 ;
+    color: #dddddd;
+}
+
+#artistImage
+{
+    margin: auto;
+    display: block;
+}
+
+
+@media only screen and (max-width: 940px) {
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 25%;
+    width: 100%;
+    background-color:#1F1B18;
+    color: white;
+    text-align: center;
+    display:block;
+    overflow: scroll;
+
+}
+.footerItem
+{
+display: block;
+margin: auto;
+width: 50%;
+overflow: scroll;
+}
+#favBtn
+{
+    height: 40px;
+    width: 40px;
+}
+#artistImage
+{
+    height: 0%;
+    width: 0%;
+}
+#songInfo
+{
+    margin-top: 0%;
+    width: 100%;
+}
+}
+@media only screen and (min-width: 940px) {
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 3.8%;
+    width: 100%;
+    background-color:#1F1B18;
+    color: white;
+    text-align: center;
+}
+}
+
+
+#lyrics
+{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    overflow: scroll;
+    height: 100px;
+    margin-top: 10%;
+}

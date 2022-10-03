@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hotdog</title>
+    <link rel="shortcut icon" href="../img/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="../css/register.css">
+    <script src="../js/register.js"></script>
+</head>
+<body>
+    <br>
+    <br>
+
+    
+    <div class = "container">
+        <form action="../backend/API/V1/bRegister.php" method="post">
+            <input type="text" id="username" name="username" placeholder="username" required><br>
+            <input type="password" id="password" name="password" placeholder="password" required><br>
+            <input type="password" id="password2" name="password2" placeholder="confirm password" required><br>
+            <input type="text" id="firstname" name="firstname" placeholder="firstname" required><br>
+            <input type="text" id="lastname" name="lastname" placeholder="lastname" required><br>
+            <input type="email" id="email" name = "email" placeholder="email" required><br><br>
+        </form>
+        <button class = "button" onclick="onRegister()">Register</button>
+        <h1 id = "errorMSG"></h1>
+        <h1 id = "successMSG"></h1>
+        <br>
+    </div>
+
+</body>
+</html>

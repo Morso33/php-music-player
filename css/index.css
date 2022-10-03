@@ -1,0 +1,38 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin-top: 9%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button
+{
+height: 40px;
+border: none;
+background-color: black;
+color: white;
+font-size: 15px;
+margin-bottom: 10px;
+text-align: center; 
+}
+
